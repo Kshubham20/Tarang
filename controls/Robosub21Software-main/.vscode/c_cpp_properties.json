@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/shubham/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/shubham/catkin_ws/src/demo_bot_gazebo/include/**",
+        "/home/shubham/catkin_ws/src/diff_drive_description/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/vision_layer/image_undistort/include/**",
+        "/home/shubham/catkin_ws/src/new/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/debug_layer/pid_calibration/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/uuv_gazebo_plugins/uuv_gazebo_plugins/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/uuv_gazebo_plugins/uuv_gazebo_ros_plugins/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/uuv_sensor_plugins/uuv_sensor_ros_plugins/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/vision_layer/vision_commons/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/vision_layer/vision_fusion/include/**",
+        "/home/shubham/catkin_ws/src/Robosub21Software-main/vision_layer/vision_tasks/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

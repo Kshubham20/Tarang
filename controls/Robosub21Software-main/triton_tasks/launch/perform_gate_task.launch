@@ -1,0 +1,7 @@
+<launch>
+	<!-- <node name="perform_gate_task" pkg="triton_tasks" type="perform_gate_task.py" output="screen"/> -->
+	<!-- <node name="teleop_control" pkg="triton_tasks" type="custom_teleop.py" output="screen" /> -->
+	<!-- <node name="teleop_control" pkg="triton_tasks" type="teleop_control.py" output="screen" /> -->
+	<node name="teleop_control" pkg="triton_tasks" type="keyboard_teleop.py" output="screen" />
+
+</launch>	

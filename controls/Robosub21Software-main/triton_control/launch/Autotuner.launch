@@ -1,0 +1,11 @@
+<launch>
+  <arg name="uuv_name" default="triton"/>
+
+  <group ns="$(arg uuv_name)">
+
+    <node pkg="triton_control" type="Autotuner" name="autotune" output="screen">
+    </node>
+
+  </group>
+
+</launch>
